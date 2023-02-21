@@ -558,7 +558,7 @@ position: fixed;
     left: 50%;
     transform: translate(-50%,-50%);
     width: 408px;
-        height: 576px;
+        height: 584px;
         background-color: var(--primary-bg-color);
         border-radius: 4px;
         padding: 72px 24px 24px 24px;
